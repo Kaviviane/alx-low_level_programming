@@ -1,8 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+*main - Print out a string into stdout.
+*Return: 0 if succss.
+*/
+
 int main(void)
 int n;
 
