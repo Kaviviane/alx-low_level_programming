@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main-starting point
- *return:0 for true 1 false
+ *main - Prints out a string to stdout.
+ *return: 0 for true 1 false
  */
 int main(void)
 {
