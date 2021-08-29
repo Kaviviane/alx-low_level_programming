@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *Main-starting point
- *Return:0 is for true 1 for false
+ *Main-Print the last part of a quote in the standard error.
+ *Return:0 is for true 1 for false.
  */
 int main(void)
 {
