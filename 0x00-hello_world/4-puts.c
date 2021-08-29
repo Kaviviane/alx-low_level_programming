@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *Main-Print out a string to stdout.
+ *main - Print out a string to stdout.
  *Return:0 is for true 1 for false.
  */
 int main(void)
