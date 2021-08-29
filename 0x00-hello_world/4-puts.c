@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *Main:starting point
+ *Main-starting point
  *Return:0 is for true 1 for false
  */
 int main(void)
