@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *Main-Print the last part of a quote in the standard error.
+ *Main-Print out a string to stdout.
  *Return:0 is for true 1 for false.
  */
 int main(void)
