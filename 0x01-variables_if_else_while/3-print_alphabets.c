@@ -8,6 +8,7 @@
 int main(void)
 {
 	char c = 'a', C = 'A';
+	
 	while (c <= 'z')
 	{
 		putchar(c);
