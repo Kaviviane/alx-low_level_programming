@@ -1,9 +1,18 @@
 #include <stdio.h>
-int main()
+/**
+ * main - prints the alphabet in lowercase.
+(*
+ * Return: 0 on success
+ */
+int main(void)
 {
-	char i;
-	putchar("\n\nLower case characters:\n");
-	for(i='a'; i<='z'; i++)
-		putchar("%c ",i);
-	return 0;
+	char c = 'a';
+
+	while (c <= 'z')
+	{
+		putchar(c);
+		c++;
+	}
+	putchar('\n');
+	return (0);
 }
